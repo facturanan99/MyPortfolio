@@ -710,12 +710,14 @@ footer {
   .project-container {
     display: flex;
     flex-direction: column;
-    padding: 1rem;
+    padding: 0;
   }
 
   .proj-thumbnail {
     min-height: 10rem;
-    max-width: 90%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
   }
 
   .project-container .technology-used i {
