@@ -594,6 +594,7 @@ footer {
     padding: 2rem 1rem;
     transition: all 0.5s ease;
     transform: translateX(40rem);
+    filter: drop-shadow(-1px 3px 3px rgba(0, 0, 0, 0.8));
   }
 
   #menu {
